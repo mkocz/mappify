@@ -1,0 +1,180 @@
+[
+  {
+    "lat": 38.797,
+    "long": -9.391,
+    "images": [
+      "sintra/1.jpg",
+      "sintra/2.jpg",
+      "sintra/3.jpg",
+      "sintra/4.jpg",
+      "sintra/5.jpg",
+      "sintra/6.jpg",
+      "sintra/7.jpg"
+    ],
+    "desc": "The fairytale town of Sintra (historic royal residence) rises among lush forests, known for its romantic palaces and gardens. The Palácio Nacional, located in the town center, was a main residence for Portuguese royalty for centuries and is famous for its distinctive twin chimneys and beautifully decorated rooms. Sintra’s historic center and surrounding palaces are now a UNESCO World Heritage site, attracting visitors who want to explore its rich history and stunning architecture.",
+    "type": "landmark",
+    "region": "6929b70d3053703dc2d0dae7",
+    "name": "Palacio Nacional"
+  },
+  {
+    "lat": 38.78,
+    "long": -9.5,
+    "images": [
+      "caboderoca/1.jpg",
+      "caboderoca/2.jpg",
+      "caboderoca/3.jpg",
+      "caboderoca/4.jpg"
+    ],
+    "desc": "Cabo da Roca is the westernmost point of continental Europe, located along the coast near Sintra. Steep cliffs rise above the Atlantic Ocean, offering breathtaking views and dramatic sunsets. It is a popular destination for visitors who want to experience the rugged beauty and vastness of Portugal’s coastline.",
+    "type": "nature",
+    "region": "6929b70d3053703dc2d0dae7",
+    "name": "Cabo de Roca"
+  },
+  {
+    "lat": 38.69,
+    "long": -9.456,
+    "images": ["boca/1.jpg", "boca/3.jpg", "boca/2.jpg"],
+    "desc": "Boca do Inferno (Mouth of Hell) is a dramatic cliff formation located near the coastal town of Cascais, west of Lisbon. Powerful waves crash against the rugged rocks, creating impressive splashes and a thunderous roar. It is a popular spot for visitors who want to experience the raw beauty of Portugal’s Atlantic coastline.",
+    "type": "nature",
+    "region": "6929b70d3053703dc2d0dae7",
+    "name": "Boca do Infermo"
+  },
+  {
+    "lat": 38.697,
+    "long": -9.21,
+    "images": [
+      "belem/1.jpg",
+      "belem/2.jpg",
+      "belem/3.jpg",
+      "belem/4.jpg",
+      "belem/5.jpg",
+      "belem/6.jpg"
+    ],
+    "desc": "Belém is a historic district of Lisbon that grew along the Tagus River as an important port for explorers. The modern Padrão dos Descobrimentos (Monument to the Discoveries) celebrates their achievements. The district is home to some of Lisbon’s most iconic 16th-century landmarks in the richly decorative Manueline style, including Belém Tower, a fortress that once guarded the harbor, and Jerónimos Monastery, built to honor Vasco da Gama’s voyage to India. Beyond its history, Belém is famous for its Pastéis de Belém (cream-filled tarts), a sweet tradition that has delighted visitors since the 19th century.",
+    "type": "city",
+    "region": "6929b70d3053703dc2d0dae7",
+    "name": "Belem"
+  },
+  {
+    "lat": 38.71,
+    "long": -9.14,
+    "images": [
+      "lisbon/1.jpg",
+      "lisbon/2.jpg",
+      "lisbon/3.jpg",
+      "lisbon/4.jpg",
+      "lisbon/5.jpg",
+      "lisbon/6.jpg"
+    ],
+    "desc": "Lisbon is known for its vintage yellow trams navigating steep hills and its long maritime history shaped by Portuguese explorers. The city also offers scenic views over the Tagus River, with impressive bridges stretching across the water, including the iconic 25 de Abril Bridge. Its streets are filled with cafés and bakeries, as well as restaurants serving traditional seafood dishes like grilled sardines and bacalhau. Lisbon is also the birthplace of Fado, a traditional style of music performed in intimate venues. Its melancholic tone reflects saudade—a deep sense of longing often associated with sailors at sea, distant places, and Portugal’s past maritime glory.",
+    "type": "city",
+    "region": "6929b70d3053703dc2d0dae7",
+    "name": "Lisbon"
+  },
+  {
+    "desc": "The Bastei Bridge is a stone bridge spectacularly suspended about 40 metres above the gorge in Saxon Switzerland. The surrounding area features dramatic sandstone cliffs formed by water erosion over millions of years. Its name comes from a Swiss artist who thought the region reminded him of his homeland. The area was once home to small settlements, evidence of early human activity in the region. Visitors can enjoy scenic walks among the unique rock formations and explore the surrounding nature.",
+    "lat": 50.96,
+    "long": 14.07,
+    "images": [
+      "bastei/1.jpg",
+      "bastei/2.jpg",
+      "bastei/3.jpg",
+      "bastei/4.jpg",
+      "bastei/5.jpg",
+      "bastei/6.jpg"
+    ],
+    "region": "6929b70d3053703dc2d0dae8",
+    "__v": 0,
+    "name": "Bastei",
+    "type": "nature"
+  },
+  {
+    "desc": "Dresden, the capital of Saxony, is famous for its magnificent baroque architecture and rich artistic heritage. The Zwinger Palace, built by Augustus the Strong, houses galleries and collections, including delicate Meissen porcelain. One of the city’s unique site is Pfunds Molkerei, a historic dairy store decorated with hand-painted majolica tiles covering walls, floors, and counters, often called the most beautiful dairy in the world. Modern art thrives in Kunsthofpassage, a creative complex of courtyards filled with colorful buildings, artistic facades, murals, and interactive installations.",
+    "lat": 51.05,
+    "long": 13.74,
+    "images": [
+      "dresden/2.jpg",
+      "dresden/6.jpg",
+      "dresden/3.jpg",
+      "dresden/1.jpg",
+      "dresden/4.jpg",
+      "dresden/5.jpg"
+    ],
+    "region": "6929b70d3053703dc2d0dae8",
+    "__v": 0,
+    "name": "Dresden",
+    "type": "city"
+  },
+  {
+    "desc": "Meissen, a historic town in Saxony, is famous as the birthplace of the first European porcelain. Augustus the Strong commissioned the production of porcelain at Albrechtsburg Castle, where the alchemist Böttger developed the secret recipe. The Meissen porcelain factory became renowned for its delicate figurines, plates, and small bells, which were prized across Europe. The town itself features a charming old town with medieval streets, historic buildings, and a picturesque market square.",
+    "lat": 51.164,
+    "long": 13.5,
+    "images": [
+      "meissen/1.jpg",
+      "meissen/2.jpg",
+      "meissen/5.jpg",
+      "meissen/6.jpg",
+      "meissen/3.jpg",
+      "meissen/4.jpg",
+      "meissen/7.jpg",
+      "meissen/8.jpg"
+    ],
+    "region": "6929b70d3053703dc2d0dae8",
+    "__v": 0,
+    "name": "Meissen",
+    "type": "city"
+  },
+  {
+    "name": "Munich",
+    "desc": "Munich is a lively city known for its historic Marienplatz and the impressive New Town Hall, with its famous Glockenspiel show. The city is also home to the large Englischer Garten, one of the biggest urban parks in the world, where visitors can stroll among meadows, streams, and even watch wild geese. Munich is famous for its beer culture and festivals, where tourists often dress in traditional Bavarian costumes like lederhosen and dirndls to join the celebrations.",
+    "lat": 48.13,
+    "long": 11.57,
+    "images": [
+      "munich/1.jpg",
+      "munich/2.jpg",
+      "munich/3.jpg",
+      "munich/4.jpg",
+      "munich/5.jpg",
+      "munich/6.jpg",
+      "munich/7.jpg",
+      "munich/8.jpg",
+      "munich/9.jpg"
+    ],
+    "type": "city",
+    "region": "6929b70d3053703dc2d0dae9",
+    "__v": 0
+  },
+  {
+    "name": "Regensburg",
+    "desc": "Regensburg is a beautifully preserved medieval city known for its impressive Stone Bridge, which has spanned the Danube since the 12th century. Its towering St. Peter’s Cathedral dominates the skyline, representing one of the finest examples of Gothic architecture in Germany. Visitors can also explore the remains of the ancient Roman fortress wall, the Legionslagermauer, including the historic Porta Praetoria, which dates back to the 2nd century. Regensburg is closely linked to the astronomer Johannes Kepler, who spent his final years here and died in the city in 1630.",
+    "lat": 49.02,
+    "long": 12.1,
+    "images": [
+      "regensburg/1.jpg",
+      "regensburg/2.jpg",
+      "regensburg/3.jpg",
+      "regensburg/4.jpg",
+      "regensburg/5.jpg"
+    ],
+    "type": "city",
+    "region": "6929b70d3053703dc2d0dae9",
+    "__v": 0
+  },
+  {
+    "name": "Neuschwanstein",
+    "desc": "Neuschwanstein Castle rises above the Bavarian countryside at the edge of the Allgäu Alps, surrounded by forests, rugged alpine terrain, and bright lakes that give the area a true fairy-tale atmosphere. The castle stands near Tegelberg (1,881 m), a scenic mountain offering panoramic views and access to popular hiking trails. Built in the 19th century by King Ludwig II of Bavaria, it reflects his romantic vision inspired by legends, art, and medieval imagery. Ludwig II belonged to the powerful Wittelsbach dynasty, which ruled Bavaria for centuries and left a lasting mark on the region’s history.",
+    "lat": 47.56,
+    "long": 10.75,
+    "images": [
+      "alps/1.jpg",
+      "alps/2.jpg",
+      "alps/4.jpg",
+      "alps/5.jpg",
+      "alps/6.jpg",
+      "alps/7.jpg"
+    ],
+    "type": "landmark",
+    "region": "6929b70d3053703dc2d0dae9",
+    "__v": 0
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "6929b70d3053703dc2d0dae8",
+    "name": "Saxony",
+    "country": "Germany",
+    "description": "Saxony is a region in eastern Germany, whose name comes from the Saxons, a Germanic tribe that settled here centuries ago, leaving a rich cultural and historical legacy. Dresden, the capital of Saxony, was shaped by Augustus the Strong into a city of magnificent baroque architecture. He also had the first European porcelain developed in nearby Meissen, and his baroque residences became the perfect place to display the artists’ work. Not far from the capital lies a dramatic rock landscape known as Saxon Switzerland, a massif of sandstone cliffs formed by water erosion over millions of years. The best place to admire the rock formations is the Bastei Bridge, a stone bridge about 40 metres above the gorge.",
+    "img": "regions/IMG_20230501_191336.jpg",
+    "lat": 51.0504,
+    "long": 13.7373
+  },
+  {
+    "_id": "6929b70d3053703dc2d0dae7",
+    "name": "Lisbon region",
+    "country": "Portugal",
+    "description": "The Lisbon region can be admired for its coastal landscapes, maritime heritage, colourful azulejos (decorative tiles), delicious local treats, and the soulful sound of fado. Vintage yellow trams are an unmistakable symbol of Lisbon. Grand 16th-century monuments in the Belém district illustrate the city’s history during the Age of Discoveries. Nearby, the town of Sintra, a historic royal residence, rises among lush forests, where palaces like the Palácio Nacional once hosted royalty. Along the coast, dramatic cliffs at Boca do Inferno and Cabo da Roca - the westernmost point of continental Europe - highlight the region’s natural beauty.",
+    "img": "regions/IMG_20230925_151812.jpg",
+    "lat": 38.7223,
+    "long": -9.1393
+  },
+  {
+    "_id": "6929b70d3053703dc2d0dae9",
+    "name": "Bavaria",
+    "country": "Germany",
+    "description": "Bavaria is a picturesque region in southern Germany, known for its Alpine landscapes and charming villages. The famous Neuschwanstein Castle, built by King Ludwig II, sits among mountains and forests, reflecting the fairy-tale style of the Bavarian royal dynasty. Munich, the capital, is a vibrant city famous for its beer halls, cultural festivals, and traditional Bavarian costumes like lederhosen and dirndls. In Regensburg, the medieval streets recall the work of the astronomer Johannes Kepler, who lived there for several years. The region is dotted with historic castles, scenic lakes, and rolling hills, making it a perfect mix of natural beauty and rich history.",
+    "img": "regions/IMG_20240502_141706.jpg",
+    "lat": 48.1351,
+    "long": 11.582,
+    "zoom": 6.5
+  }
+]

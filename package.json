@@ -11,7 +11,7 @@
     "mongoose": "^6.0.5"
   },
   "scripts": {
-    "start": "nodemon index.js",
+    "start": "node index.js",
     "seed": "node seed.js"
   },
   "author": "",

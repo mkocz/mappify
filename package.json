@@ -11,6 +11,7 @@
     "mongoose": "^6.0.5"
   },
   "scripts": {
+    "build": "cd client && npm install && npm run build",
     "start": "node index.js",
     "seed": "node seed.js"
   },

@@ -1,6 +1,6 @@
 # Mappify
 
-Page url: [(https://mappify-production.up.railway.app/)]
+Page url: https://mappify-production.up.railway.app/
 
 ## Project Overview
 

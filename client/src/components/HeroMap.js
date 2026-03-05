@@ -1,12 +1,7 @@
 import "mapbox-gl/dist/mapbox-gl.css";
 import Map, { Marker, Popup } from "react-map-gl/mapbox";
-import mapboxgl from 'mapbox-gl';
 import { useState } from "react";
 import { Link } from 'react-router-dom';
-
-mapboxgl.accessToken = process.env.REACT_APP_MAPBOX;
-mapboxgl.setTelemetryEnabled(false);
-
 
 const HeroMap = ({ regions }) => {
     const [selectedSite, setSelectedSite] = useState(null);

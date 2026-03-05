@@ -1,9 +1,10 @@
-dotenv.config();
 const express = require("express");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const cors = require('cors');
 const path = require('path');
+
+dotenv.config();
 
 const siteRoute = require("./routes/sites");
 const regionRoute = require("./routes/regions");

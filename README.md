@@ -17,12 +17,12 @@ images, and navigation options.
 
 ## How to Run
 
-### Database (MySQL)
+### Database (MongoDB)
 
 
 1. Create a MongoDB Atlas cluster and a database user, then whitelist your IP.  
 Add your connection string to a `.env` file as `MONGO_URL`, including the database name (e.g., `mappify`).
-2. Configure the database connection in the `.env` file:
+2. Configure the database connection in the `.env` file (initial data will be added via the seed script later):
    
 ````bash
 

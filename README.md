@@ -19,20 +19,24 @@ images, and navigation options.
 
 ### Database (MySQL)
 
-````bash
+
 1. Create a MongoDB Atlas cluster and a database user, then whitelist your IP.  
 Add your connection string to a `.env` file as `MONGO_URL`, including the database name (e.g., `mappify`).
 2. Configure the database connection in the `.env` file:
+   
+````bash
 
 MONGO_URL="mongodb+srv://appUser:secret123@cluster0.abcd123.mongodb.net/mappify"
 
 ````
 
 ### Frontend
-```bash
+
 Client is built and served from the backend. The only setup needed on the client is configuring the Mapbox API token:
 1. Get an Access Token from MapBox
 2. Create a `.env` file in the client folder and add:
+   
+```bash
 
 REACT_APP_MAPBOX = YOUR_TOKEN
 

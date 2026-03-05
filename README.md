@@ -26,7 +26,7 @@ Add your connection string to a `.env` file as `MONGO_URL`, including the databa
    
 ````bash
 
-MONGO_URL="mongodb+srv://appUser:secret123@cluster0.abcd123.mongodb.net/mappify"
+MONGO_URL="mongodb+srv://YOUR_USERNAME:YOUR_PASSWORD@YOUR_CLUSTER.mongodb.net/mappify"
 
 ````
 

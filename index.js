@@ -8,6 +8,14 @@ const regionRoute = require("./routes/regions");
 
 const app = express();
 
+app.get("/api/mapbox-events", async (req, res) => {
+    const url = `https://events.mapbox.com/events/v2?access_token=${process.env.REACT_APP_MAPBOX}`;
+    console.log('wyf', url)
+    const response = await fetch(url);
+    const data = await response.json();
+    res.json(data);
+});
+
 app.use(express.static(path.join(__dirname, "./client/build")));
 
 app.get("*", (req, res) => {
